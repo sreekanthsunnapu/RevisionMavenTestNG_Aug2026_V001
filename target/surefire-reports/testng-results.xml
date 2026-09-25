@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-25T09:41:34 IST" name="Suite" finished-at="2026-09-25T09:41:56 IST" duration-ms="21939">
+    <groups>
+    </groups>
+    <test started-at="2026-09-25T09:41:34 IST" name="Test" finished-at="2026-09-25T09:41:56 IST" duration-ms="21939">
+      <class name="com.sreekanth.revisionMavenTestNG.SampleTest">
+        <test-method signature="sampleTestMethod1()[pri:0, instance:com.sreekanth.revisionMavenTestNG.SampleTest@15b204a1]" started-at="2026-09-25T09:41:53 IST" name="sampleTestMethod1" finished-at="2026-09-25T09:41:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestMethod1 -->
+      </class> <!-- com.sreekanth.revisionMavenTestNG.SampleTest -->
+      <class name="com.sreekanth.revisionMavenTestNG.TutorialsPointLaunch">
+        <test-method signature="LaunchTutorialPoint()[pri:0, instance:com.sreekanth.revisionMavenTestNG.TutorialsPointLaunch@27ae2fd0]" started-at="2026-09-25T09:41:34 IST" name="LaunchTutorialPoint" finished-at="2026-09-25T09:41:45 IST" duration-ms="11204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchTutorialPoint -->
+      </class> <!-- com.sreekanth.revisionMavenTestNG.TutorialsPointLaunch -->
+      <class name="com.sreekanth.revisionMavenTestNG.TestCaseToCheckIfJenkinsCouldPickupChangesOnLocalWS">
+        <test-method signature="localChangesMethod()[pri:0, instance:com.sreekanth.revisionMavenTestNG.TestCaseToCheckIfJenkinsCouldPickupChangesOnLocalWS@1fe20588]" started-at="2026-09-25T09:41:56 IST" name="localChangesMethod" finished-at="2026-09-25T09:41:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- localChangesMethod -->
+      </class> <!-- com.sreekanth.revisionMavenTestNG.TestCaseToCheckIfJenkinsCouldPickupChangesOnLocalWS -->
+      <class name="com.sreekanth.revisionMavenTestNG.GoogleLaunch">
+        <test-method signature="testGoogle()[pri:0, instance:com.sreekanth.revisionMavenTestNG.GoogleLaunch@77167fb7]" started-at="2026-09-25T09:41:53 IST" name="testGoogle" finished-at="2026-09-25T09:41:56 IST" duration-ms="2304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogle -->
+      </class> <!-- com.sreekanth.revisionMavenTestNG.GoogleLaunch -->
+      <class name="com.sreekanth.revisionMavenTestNG.AutomationTestPracticeLaunch">
+        <test-method signature="LaunchBrowser()[pri:0, instance:com.sreekanth.revisionMavenTestNG.AutomationTestPracticeLaunch@124c278f]" started-at="2026-09-25T09:41:45 IST" name="LaunchBrowser" finished-at="2026-09-25T09:41:53 IST" duration-ms="8371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+      </class> <!-- com.sreekanth.revisionMavenTestNG.AutomationTestPracticeLaunch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
