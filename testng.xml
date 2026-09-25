@@ -6,8 +6,8 @@
       <class name="com.sreekanth.revisionMavenTestNG.TutorialsPointLaunch"/>
       <class name="com.sreekanth.revisionMavenTestNG.AutomationTestPracticeLaunch"/>
       <class name="com.sreekanth.revisionMavenTestNG.SampleTest"/>
-      <class name="com.sreekanth.revisionMavenTestNG.GoogleLaunch"/>
       <class name="com.sreekanth.revisionMavenTestNG.TestCaseToCheckIfJenkinsCouldPickupChangesOnLocalWS"/>
+      <class name="com.sreekanth.revisionMavenTestNG.GoogleLaunch"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
